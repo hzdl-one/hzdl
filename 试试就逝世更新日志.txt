@@ -1,0 +1,1 @@
+[2020-3-30] Official release of exe form try to die on file
